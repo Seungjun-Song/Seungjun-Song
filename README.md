@@ -1,6 +1,6 @@
 <div align="center">
 
-<hr>
+---
 
 ### 🔥 Tech Stack 🔥
 
@@ -30,7 +30,7 @@
 &nbsp;
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&logoWidth=20)
 
-<hr>
+---
 
 ### 📊 GitHub Stats
 
