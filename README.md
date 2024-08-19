@@ -1,6 +1,8 @@
 <div align="center">
 
-## 🔥 Tech Stack 🔥
+<hr>
+
+### 🔥 Tech Stack 🔥
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&logoWidth=20) 
 &nbsp;
@@ -28,7 +30,9 @@
 &nbsp;
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&logoWidth=20)
 
-## 📊 GitHub Stats
+<hr>
+
+### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seungjun-Song&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungjun-Song&layout=compact&theme=radical)
