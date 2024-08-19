@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
-출처: https://eunhee-programming.tistory.com/239 [코드짜는 문과녀:티스토리]
+<img src="https://img.shields.io/badge/Spring Boot-green?style=plastic&logo=Spring Boot&logoColor=#6DB33F"/>
 
 <!--
 **Seungjun-Song/Seungjun-Song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
