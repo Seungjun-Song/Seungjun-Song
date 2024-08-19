@@ -1,6 +1,6 @@
 <div align="center">
 
-<hr style="border: 1px solid #ccc;" />
+#
 
 ### 🔥 Tech Stack 🔥
 
@@ -12,8 +12,6 @@
 &nbsp;
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white&logoWidth=20)
 
-&nbsp;
-
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&logoWidth=20) 
 &nbsp;
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white&logoWidth=20) 
@@ -22,13 +20,9 @@
 &nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&logoWidth=20)
 
-&nbsp;
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20) 
 &nbsp;
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&logoWidth=20)
-
-&nbsp;
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=20) 
 &nbsp;
@@ -36,7 +30,7 @@
 &nbsp;
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&logoWidth=20)
 
-<hr style="border: 1px solid #ccc;" />
+#
 
 ### 📊 GitHub Stats
 
