@@ -1,5 +1,13 @@
 <div align="center">
 
+🍀 Me 🍀
+
+Hi there! I'm Song, a backend developer.
+
+My main skills include Java, Spring Boot, and Git.
+
+I'm passionate about continuously improving my skills to become a better developer every day. 😊
+
 #
 
 ### 🔥 Tech Stack 🔥
